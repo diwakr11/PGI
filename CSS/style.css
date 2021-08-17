@@ -2,10 +2,19 @@ body
 {
     margin: 0;
     padding: 0;
+   
+}
+
+.background{
+    margin: 0;
+    padding: 0;
     background-image: url('../img/bl.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
+
 }
+
 .navbar-nav li a{
     padding: 5px 9px;
     color: #ffffff;
